@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cea8f21953607ddc83de2d966149b91e",
+    "packages": [
+        {
+            "name": "buscacep/yyhago",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yyhago/LibraryBuscaCep-php.git",
+                "reference": "1d2545205b73ed27407d235b093ec53a9e3f4cd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yyhago/LibraryBuscaCep-php/zipball/1d2545205b73ed27407d235b093ec53a9e3f4cd0",
+                "reference": "1d2545205b73ed27407d235b093ec53a9e3f4cd0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "BuscaCep\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Yhago Felipe",
+                    "email": "yhago.felipe.teles@gmail.com"
+                }
+            ],
+            "description": "BuscaCep",
+            "support": {
+                "issues": "https://github.com/yyhago/LibraryBuscaCep-php/issues",
+                "source": "https://github.com/yyhago/LibraryBuscaCep-php/tree/1.0.0"
+            },
+            "time": "2024-02-04T10:17:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

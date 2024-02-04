@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "buscacep/yyhago",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yyhago/LibraryBuscaCep-php.git",
+                "reference": "1d2545205b73ed27407d235b093ec53a9e3f4cd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yyhago/LibraryBuscaCep-php/zipball/1d2545205b73ed27407d235b093ec53a9e3f4cd0",
+                "reference": "1d2545205b73ed27407d235b093ec53a9e3f4cd0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "time": "2024-02-04T10:17:09+00:00",
+            "type": "library",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "BuscaCep\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Yhago Felipe",
+                    "email": "yhago.felipe.teles@gmail.com"
+                }
+            ],
+            "description": "BuscaCep",
+            "support": {
+                "issues": "https://github.com/yyhago/LibraryBuscaCep-php/issues",
+                "source": "https://github.com/yyhago/LibraryBuscaCep-php/tree/1.0.0"
+            },
+            "install-path": "../buscacep/yyhago"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

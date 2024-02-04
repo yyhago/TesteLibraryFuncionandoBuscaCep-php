@@ -1,0 +1,12 @@
+{
+    "name": "project/buscacep",
+    "authors": [
+        {
+            "name": "Yhago Felipe",
+            "email": "yhago.felipe.teles@gmail.com"
+        }
+    ],
+    "require": {
+        "buscacep/yyhago": "^1.0"
+    }
+}
